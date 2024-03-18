@@ -2,7 +2,6 @@
 HR Analytics Dashboard 
 
 **Overview:**
-
 This readme provides insights into the HR analytics dashboard created on Power BI. The dashboard presents key metrics and visualizations related to employee attrition, demographics, and factors influencing attrition rates within the organization.
 
 **Dashboard Summary:**
