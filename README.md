@@ -85,8 +85,7 @@ Employee Count
   
   
 
-- 
-Department Slicer: A slicer allowing users to filter data by departments such as Human Resources, Research & Development, and Sales.  
+- Department Slicer: A slicer allowing users to filter data by departments such as Human Resources, Research & Development, and Sales.  
   
 
 
