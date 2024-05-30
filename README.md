@@ -40,8 +40,7 @@
 
 
 ### Dashboard Components:  
-- 
-Cards:
+- Cards:
 Attrition Rate,
 Average Age,
 Average Salary,
